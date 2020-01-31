@@ -9,7 +9,7 @@
 namespace App\Services\Business;
 
 use App\Models\userModel;
-use App\http\controllers\databaseController;
+use App\Http\Controllers\databaseController;
 use App\Services\Data\dataService;
 
 class securityService {
